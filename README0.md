@@ -10,3 +10,7 @@ https://blog.csdn.net/imhxl/article/details/52190451
 
 AudioRecord API详解
 https://www.cnblogs.com/renhui/p/7457321.html
+
+Android 自定义录音、播放动画View，让你的录音浪起来 
+https://www.cnblogs.com/ldq2016/p/6692322.html
+
