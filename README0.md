@@ -26,3 +26,6 @@ https://blog.csdn.net/wangwangli6/article/details/71944571
 
 android项目大全，总有你所需的
 https://blog.csdn.net/tiantian1980/article/details/18838129
+
+[Android] 免费天气预报接口 
+https://www.cnblogs.com/wukong1688/p/10742849.html
