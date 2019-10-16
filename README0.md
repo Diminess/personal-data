@@ -29,3 +29,6 @@ https://blog.csdn.net/tiantian1980/article/details/18838129
 
 [Android] 免费天气预报接口 
 https://www.cnblogs.com/wukong1688/p/10742849.html
+
+持续更新免费的 API，做一个 API 的搬运工——终身维护 
+https://learnku.com/articles/30329
