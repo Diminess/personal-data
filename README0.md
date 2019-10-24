@@ -1,3 +1,4 @@
+
 https://fir.im/
 
 Android开源项目
@@ -32,3 +33,6 @@ https://www.cnblogs.com/wukong1688/p/10742849.html
 
 持续更新免费的 API，做一个 API 的搬运工——终身维护 
 https://learnku.com/articles/30329
+
+Android App的设计架构：MVC,MVP,MVVM与架构经验谈
+https://www.tianmaying.com/tutorial/AndroidMVC
