@@ -36,3 +36,6 @@ https://learnku.com/articles/30329
 
 Android App的设计架构：MVC,MVP,MVVM与架构经验谈
 https://www.tianmaying.com/tutorial/AndroidMVC
+
+学会了这些技术，你离BAT大厂不远了
+https://blog.csdn.net/z694644032/article/details/100084287
