@@ -39,3 +39,6 @@ https://www.tianmaying.com/tutorial/AndroidMVC
 
 学会了这些技术，你离BAT大厂不远了
 https://blog.csdn.net/z694644032/article/details/100084287
+
+KeepLive for Android 安卓保活组件
+https://github.com/fanqieVip/keeplive
