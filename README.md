@@ -47,5 +47,12 @@ https://blog.csdn.net/qq_39731011/article/details/90672491
 Android 视频列表(RecyclerView)实现自动播放
 https://blog.csdn.net/qq_39731011/article/details/97795805
 
+Android-Video-Editor
+https://github.com/LLhon/Android-Video-Editor
 
+Android键盘面板冲突 布局闪动处理方案
+https://blog.dreamtobe.cn/2015/09/01/keyboard-panel-switch/
+
+Demo合集，折线图、Retrofit、RxJava、RxLifecycle、DataBinding、MVP、MVVM、自动化测试工具UiAutomator、自定义控件、RecyclerView扩展组件、NDK开发、Design Support Library、蓝牙BLE开发
+https://github.com/alidili/Demos
 
